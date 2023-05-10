@@ -1,0 +1,1 @@
+{"name":"Local: registration system","url":"g:\\codeforce\\registration system.cpp","tests":[{"id":1622296988666,"input":"4\nabacaba\nacaba\nabacaba\nacab","output":""},{"id":1622297679413,"input":"3\nd\nd \nd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\codeforce\\registration system.cpp","group":"local","local":true}
